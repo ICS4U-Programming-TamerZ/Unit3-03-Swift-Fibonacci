@@ -1,0 +1,2 @@
+Fibonacci sequence up to 5:
+0 1 1 2 3 
